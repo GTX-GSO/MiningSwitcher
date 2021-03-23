@@ -1,6 +1,6 @@
 # MiningSwitcher
 
-####  **Project Description  简介
+####  Project Description  简介
 
 本工具抓取并解析全网实时币价与挖矿难度，计算当前显卡实时日收益，并自动切换到对应币种以实现收益最大化，数据刷新时间可自定义，推荐大于10分钟，频繁切换会导致pool端收益降低。
 
@@ -10,17 +10,17 @@
 
 #### Quick instructions  快速使用指南
 
-**1.下载最新版本的release：https://github.com/GTX-GSO/MiningSwitcher/releases
+##### 1.下载最新版本的release：https://github.com/GTX-GSO/MiningSwitcher/releases
 
-**2.将压缩包内的文件全部解压至NBMiner文件夹
+##### 2.将压缩包内的文件全部解压至NBMiner文件夹
 
-**3.打开config.json，填入挖矿显卡对应币种的算力，单位为M
+##### 3.打开config.json，填入挖矿显卡对应币种的算力，单位为M
 
 参考数据可在https://www.beepool.com/income/top?gpu找到
 
-**4.安装JRE1.8.0 版本251以上 ，并设置好系统环境变量，教程后附
+##### 4.安装JRE1.8.0 版本251以上 ，并设置好系统环境变量，教程后附
 
-**5.请确认已填写好nbminer内相关币种矿池与钱包地址，双击bat文件，设置刷新时间，按回车程序开始工作
+##### 5.请确认已填写好nbminer内相关币种矿池与钱包地址，双击bat文件，设置刷新时间，按回车程序开始工作
 
 
 
