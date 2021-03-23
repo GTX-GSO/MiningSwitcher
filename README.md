@@ -1,2 +1,0 @@
-# MiningSwitcher
-Quick instructions
