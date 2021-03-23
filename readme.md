@@ -6,6 +6,8 @@
 
 目前支持币种：ETH ETC RVN CFX SERO AE BEAM MOAC
 
+A/N卡通用 Linux平台理论支持，并未测试
+
 本工具需配合NBMiner使用：https://github.com/NebuTech/NBMiner
 
 #### Quick instructions  快速使用指南
