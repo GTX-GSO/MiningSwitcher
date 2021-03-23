@@ -4,9 +4,7 @@
 
 本工具抓取并解析全网实时币价与挖矿难度，计算当前显卡实时日收益，并自动切换到对应币种以实现收益最大化，数据刷新时间可自定义，推荐大于10分钟，频繁切换会导致pool端收益降低。
 
-目前支持币种：ETH ETC RVN CFX SERO AE BEAM MOAC
-
-A/N卡通用 Linux平台理论支持，并未测试
+目前支持币种：ETH ETC RVN CFX SERO AE BEAM MOAC  A/N卡通用
 
 本工具需配合NBMiner使用：https://github.com/NebuTech/NBMiner
 
