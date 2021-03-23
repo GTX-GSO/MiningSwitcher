@@ -16,7 +16,7 @@
 
 ##### 3.打开config.json，填入挖矿显卡对应币种的算力，单位为M
 
-参考数据可在https://www.beepool.com/income/top?gpu找到
+算力数据可参考https://www.beepool.com/income/top?gpu
 
 ##### 4.安装JRE1.8.0 版本251以上 ，并设置好系统环境变量，教程后附
 
